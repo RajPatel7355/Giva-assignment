@@ -72,7 +72,7 @@ Run the Backend Server:
 cd backend
 npm start
 ```
-The backend will run on http://localhost:50
+The backend will run on http://localhost:5000
 Run the Frontend:
 ```
 cd ../frontend
